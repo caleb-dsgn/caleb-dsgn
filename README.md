@@ -1,6 +1,6 @@
 # Hi there, I'm Caleb 👋
 
-### **Senior Product Designer & Frontend/Design Systems Enthusiast**
+### **Mid-level Product Designer** | Interaction Design, Design Systems & Frontend
 *Bridging the gap between design, code, and business with an AI-first mindset.*
 
 ---
