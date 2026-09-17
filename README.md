@@ -1,7 +1,7 @@
 # Hi there, I'm Caleb 👋
 
 ### **Mid-level Product Designer** | Interaction Design, Design Systems & Frontend
-*Bridging the gap between design, code, and business with an AI-first mindset.*
+*Bridging the gap between design, code, and business.*
 
 ---
 
@@ -15,7 +15,6 @@
 🤖 Continuously leveraging **AI agents & tools** to redefine product discovery, design, and frontend delivery.  
 
 > *"Design is not just what it looks like and feels like. Design is how it works."*  
-> *(And yes, I care deeply about both).*
 
 ---
 
